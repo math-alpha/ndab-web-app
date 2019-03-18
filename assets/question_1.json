@@ -1,17 +1,19 @@
-{"questions":[
-    {
-        "text":"Qui est le village de sognjoʼo",
-        "m_reponses":["Bangoulap","Bazou","Balengou"],
-        "b_reponse":"Bangangté"
-    },
-    {
-        "text":"Qui est la mère de nkàʼcò",
-        "m_reponses":["A","B","C"],
-        "b_reponse":"Ngoʼkop"
-    },
-    {
-        "text":"Qui est le frère de maba",
-        "m_reponses":["qwerty","azerty","ytrewq"],
-        "b_reponse":"nkàʼcò"
-    }
-]}
+{
+    "questions":[
+        {
+            "text":"Qui est le village de sognjoʼo",
+            "reponses":["Bangoulap","Bazou","Bangangté","Balengou"],
+            "b_reponse":"Bangangté"
+        },
+        {
+            "text":"Qui est la mère de nkàʼcò",
+            "reponses":["A","B","C","Ngoʼkop"],
+            "b_reponse":"Ngoʼkop"
+        },
+        {
+            "text":"Qui est le frère de maba",
+            "reponses":["qwerty","azerty","nkàʼcò","ytrewq"],
+            "b_reponse":"nkàʼcò"
+        }
+    ]
+}
